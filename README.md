@@ -1,2 +1,2 @@
-# simpleclibs
-Simple C libs
+# Simple C Libraries
+Simple C libs for anyone to use.
